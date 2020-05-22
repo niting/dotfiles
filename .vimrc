@@ -8,6 +8,7 @@ call vundle#begin()
 Plugin 'flazz/vim-colorschemes'
 Plugin 'tpope/vim-fugitive'
 Plugin 'VundleVim/Vundle.vim'
+Plugin 'rust-lang/rust.vim'
 
 call vundle#end()
 filetype plugin indent on
